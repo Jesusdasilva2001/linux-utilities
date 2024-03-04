@@ -4,6 +4,11 @@
 - `./ls -a`: List all contents, including hidden files
 - `./ls -H`: List contents with sizes in a human-readable format
 
+## `mkdir` - Make Directory
+
+- `./mkdir -p`: Create parent directories if they don't exist
+- `./mkdir -m mode`: Set the file mode (permissions) of the created directory
+
 
 ## `snip` - Snippet Manager
 
