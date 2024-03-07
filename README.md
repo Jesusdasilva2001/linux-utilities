@@ -4,23 +4,6 @@
 - `./ls -a`: List all contents, including hidden files
 - `./ls -H`: List contents with sizes in a human-readable format
 
-## `mkdir` - Make Directory
-
-- `./mkdir -p`: Create parent directories if they don't exist
-- `./mkdir -m mode`: Set the file mode (permissions) of the created directory
-
-
-## `snip` - Snippet Manager
-
-- `./snip add "Example Title" "Example Content"`: Add a new snippet with a title and content.
-- `./snip list`: List all stored snippets:
-- `./snip search "keyword"`: Search for snippets containing a keyword
-`
-
-## `fsearch` - File Search
-
-- `./fsearch /path/to/search "pattern"`: Search for files by pattern within a specified path
-
 ## `cat` - Concatenate and Display Files
 
 `./cat /path/to/file`: Display the content of a specified file
